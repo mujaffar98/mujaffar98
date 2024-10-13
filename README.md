@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujaffar Shaikh</h1>
-<h3 align="center">🚀 I'm a passionate **Software Engineer** and **Automation Tester** with hands-on experience in Java full stack development, testing, and computer hardware. I'm eager to leverage my skills in technical support and development roles.</h3>
+<h3 align="center">🚀 I'm a passionate **Software Engineer** and **Automation Tester** with hands-on experience in Java full stack development, testing, and computer hardware. I'm eager to leverage my skills in development roles.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujaffar98" alt="mujaffar98" /></a> </p>
 
