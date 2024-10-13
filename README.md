@@ -30,6 +30,7 @@
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
 ## 📫 How to reach me:
 - 📧 Email: [mujaffarshaikh6698@gmail.com](mailto:mujaffarshaikh6698@gmail.com)
 - 📱 Phone: +91 8793439799
