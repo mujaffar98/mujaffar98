@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Advanced Test Automation Strategies**
 
-- 👨‍💻 All of my projects are available at [[GitHub](https://github.com/mujaffar98)]([GitHub](https://github.com/mujaffar98))
+- 👨‍💻 All of my projects are available at ([GitHub](https://github.com/mujaffar98))
 
 - 💬 Ask me about **Java, Selenium WebDriver, TestNG, Jira, SQL, and Test Automation Frameworks**
 
