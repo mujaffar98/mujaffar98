@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **mujaffarshaikh6698@gmail.com**
 
-- ⚡ Fun fact **I'm constantly learning and exploring new technologies to stay up-to-date with the evolving tech landscape!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
